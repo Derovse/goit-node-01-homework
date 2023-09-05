@@ -1,0 +1,16 @@
+{
+  "name": "goit-node-01-homework",
+  "version": "1.0.0",
+  "description": "Описание вашего проекта здесь",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "derovse",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "yargs": "^17.7.2"
+  }
+}
